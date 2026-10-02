@@ -52,7 +52,7 @@
 
 把本插件文件夹放进宿主的插件目录：
 
-- 用户目录：`/plugins`
+- 用户目录：`<userData>/plugins`
 - 开发模式下也可放进工程根目录的 `plugins/`
 
 重启编辑器，在 **设置 → 插件** 里看到 `dev.bdg.dglab-relay` 即加载成功。
